@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm kpnn! 👋
 
-<!--
-**kpnn0100/kpnn0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here are some quick stats:
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Followers&style=social)
+![GitHub repositories](https://img.shields.io/badge/Repos-YourNumberOfRepos-brightgreen)
+![GitHub commits](https://img.shields.io/badge/Commits-YourNumberOfCommits-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 I have a passion for coding and open source.
+- 🌱 I’m currently working on [Your Current Project Name].
+- 👯 I’m looking to collaborate on [Project Ideas or Interests].
+- 💬 Ask me about [Your Expertise or Interests].
+- 📫 You can reach me at [Your Email Address].
